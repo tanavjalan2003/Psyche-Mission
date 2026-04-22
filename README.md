@@ -2,6 +2,11 @@
 
 # 🚀 Psyche 1825 – Orbital of a Metal World  
 An interactive 3D simulation bringing asteroid Psyche to life through immersive orbital and surface experiences.
+
+🔗 Demo Videos:  
+- https://www.youtube.com/watch?v=FrwgDXYoUEc  
+- https://www.youtube.com/watch?v=dqEgZu-gvNQ  
+
 <img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/5780dd2f-9167-44d3-8c69-5a6f82081a36" />
 <img width="772" height="440" alt="image" src="https://github.com/user-attachments/assets/f82d1ef5-c4d9-4a92-be05-43fb96f275f8" />
 <img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/b5ac2e64-374f-4a96-a2a5-7c5138bede16" />
@@ -95,10 +100,6 @@ psyche-simulation/
 - Orbital and surface visualization of asteroid Psyche  
 - Real-time simulation controls  
 
-🔗 Demo Videos:  
-- https://www.youtube.com/watch?v=FrwgDXYoUEc  
-- https://www.youtube.com/watch?v=dqEgZu-gvNQ  
-
 ---
 
 ## ⚙️ Setup Instructions  
@@ -145,49 +146,46 @@ Once the installation is complete, you can start the project by running:
 npm start
 ```
 This will open the project in your default web browser. If it doesn’t open automatically, you can open your browser and go to:
-
+```bash
 http://localhost:3000/Home
+```
 
+## ▶️ How to Use
 
-▶️ How to Use
-Launch the simulation in your browser
-Choose between Orbital View or Surface View
-Use controls to:
-Play / Pause simulation
-Adjust time speed
-Reset camera
-Toggle views and overlays
+- Launch the simulation in your browser after starting the project  
+- Choose between **Orbital View** or **Surface View**  
+- Use the on-screen controls to interact with the simulation 
 
+You can:
+- ▶️ Play / Pause the simulation  
+- ⏩ Adjust time speed (fast-forward / rewind)  
+- 🎥 Reset camera view  
+- 🌍 Toggle between different visual modes and overlays  
 
-🎨 Customization Guide
-Modify Simulation Behavior
-Update logic inside Asteroid.js
-Extend Features
-Add new components inside /src/components
-Improve Visuals
-Replace .glb models for higher fidelity
-Enhance lighting and textures in Three.js
+---
 
+## 🙌 Acknowledgments
 
-🙌 Acknowledgments
+- Developed as part of the **CSE 485/486 Capstone Course** at Arizona State University (ASU)
 
-Developed as part of the CSE 485/486 Capstone Course at Arizona State University (ASU).
+### 👨‍💻 Student Team
+- Luz Rodriguez  
+- Luka Micevic  
+- Akshay Pasumarthi  
+- Tanav Jalan  
 
-Student Team
-Luz Rodriguez
-Melody Musmacker
-Luka Micevic
-Akshay Pasumarthi
-Tanav Jalan
+### 🎓 Academic Guidance
+- Prasad Mahalpure  
+- Jagruth Arutla  
 
-Academic Guidance
-Prasad Mahalpure
-Jagruth Arutla
+### 🌌 Special Thanks To
+- [NASA](https://www.nasa.gov/)  
+- [NASA Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/)  
+- [Psyche Mission Team](https://science.nasa.gov/mission/psyche/meet-the-psyche-team/)  
 
-Special thanks to:
-NASA
-NASA Jet Propulsion Laboratory (JPL)
-Psyche Mission Team
+---
 
-📬 Contact
-📧 tjalan@asu.edu
+## 📬 Contact
+
+- 📧 Email: tanavjalan2026@gmail.com 
+- 🌐 Project: Psyche 1825 – Orbital of a Metal World  
