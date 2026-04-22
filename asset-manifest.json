@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Psyche-Mission/static/css/main.bde5f11d.css",
+    "main.js": "/Psyche-Mission/static/js/main.2bc14977.js",
+    "static/js/453.12d502b7.chunk.js": "/Psyche-Mission/static/js/453.12d502b7.chunk.js",
+    "static/media/logo.png": "/Psyche-Mission/static/media/logo.dd66ebf87b0856f3c3ae.png",
+    "index.html": "/Psyche-Mission/index.html",
+    "main.bde5f11d.css.map": "/Psyche-Mission/static/css/main.bde5f11d.css.map",
+    "main.2bc14977.js.map": "/Psyche-Mission/static/js/main.2bc14977.js.map",
+    "453.12d502b7.chunk.js.map": "/Psyche-Mission/static/js/453.12d502b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde5f11d.css",
+    "static/js/main.2bc14977.js"
+  ]
+}
