@@ -1,7 +1,10 @@
 # README
 
 # 🚀 Psyche 1825 – Orbital of a Metal World  
-An interactive 3D simulation bringing asteroid Psyche to life through immersive orbital and surface experiences.
+An interactive 3D simulation bringing asteroid Psyche to life through immersive orbital and surface experiences. **Psyche 1825 – Orbital of a Metal World** is an interactive simulation developed at Arizona State University (ASU) in collaboration with NASA Jet Propulsion Laboratory (JPL) and the NASA Psyche Mission.
+
+The project visualizes a **year on asteroid Psyche (16 Psyche)**—a unique metal-rich celestial body—by combining scientific accuracy with an engaging user experience. Users can explore both orbital and surface perspectives, experiencing Psyche’s fast rotation, long orbital period, and metallic terrain in real time.
+[📖 Read more:] (https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/year-on-psyche-simulation-asu-a/)
 
 🔗 Demo Videos:  
 - https://www.youtube.com/watch?v=FrwgDXYoUEc  
@@ -12,13 +15,6 @@ An interactive 3D simulation bringing asteroid Psyche to life through immersive 
 <img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/b5ac2e64-374f-4a96-a2a5-7c5138bede16" />
 <img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/46232f30-a9b0-4c26-b1d2-fd2551e58670" />
 <img width="772" height="439" alt="image" src="https://github.com/user-attachments/assets/9cec6257-4b47-4b8d-93c7-1e57f4d9c8af" />
-
----
-
-## 📌 Overview  
-**Psyche 1825 – Orbital of a Metal World** is an interactive simulation developed at Arizona State University (ASU) in collaboration with NASA Jet Propulsion Laboratory (JPL) and the NASA Psyche Mission.
-
-The project visualizes a **year on asteroid Psyche (16 Psyche)**—a unique metal-rich celestial body—by combining scientific accuracy with an engaging user experience. Users can explore both orbital and surface perspectives, experiencing Psyche’s fast rotation, long orbital period, and metallic terrain in real time.
 
 ---
 
