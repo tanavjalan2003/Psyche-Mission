@@ -4,7 +4,8 @@
 An interactive 3D simulation bringing asteroid Psyche to life through immersive orbital and surface experiences. **Psyche 1825 – Orbital of a Metal World** is an interactive simulation developed at Arizona State University (ASU) in collaboration with NASA Jet Propulsion Laboratory (JPL) and the NASA Psyche Mission.
 
 The project visualizes a **year on asteroid Psyche (16 Psyche)**—a unique metal-rich celestial body—by combining scientific accuracy with an engaging user experience. Users can explore both orbital and surface perspectives, experiencing Psyche’s fast rotation, long orbital period, and metallic terrain in real time.
-[📖 Read more:] (https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/year-on-psyche-simulation-asu-a/)
+
+[📖 Read more](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/year-on-psyche-simulation-asu-a/)
 
 🔗 Demo Videos:  
 - https://www.youtube.com/watch?v=FrwgDXYoUEc  
