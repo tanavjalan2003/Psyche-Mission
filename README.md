@@ -2,6 +2,7 @@
 
 # 🚀 Psyche 1825 – Orbital of a Metal World  
 An interactive 3D simulation bringing asteroid Psyche to life through immersive orbital and surface experiences.
+<img width="771" height="439" alt="image" src="https://github.com/user-attachments/assets/5780dd2f-9167-44d3-8c69-5a6f82081a36" />
 
 ---
 
