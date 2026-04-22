@@ -50,6 +50,7 @@ The project visualizes a **year on asteroid Psyche (16 Psyche)**—a unique meta
 ---
 
 ## 📂 File Structure  
+```bash
 psyche-simulation/
 │
 ├── public/
@@ -80,7 +81,7 @@ psyche-simulation/
 ├── index.html
 ├── manifest.json
 └── README.md
-
+```
 ---
 
 ## 🎥 Output  
